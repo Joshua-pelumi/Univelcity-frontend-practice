@@ -1,0 +1,73 @@
+
+
+nav{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav ul{
+    margin: 10px;
+    padding: 20px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+
+nav ul li{
+    display: inline-block;
+    color: blue;
+    
+}
+
+nav ul li a{
+    background-color: gray;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgba(rgba(240, 36, 36, 0.2), alpha);
+    background-image: url(../Frontend/img/nurse.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+div p{
+    background-color: aquamarine;
+}
+
+#text1{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: deeppink;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.textgroup{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#boxContainer{
+    color:red;
+    width: 80%;
+    height: 400px;
+    padding: 20px;
+    margin: 0px;
+}
+
+ul > li{
+    list-style: none;
+    color: white;
+    background-color: black;
+}
