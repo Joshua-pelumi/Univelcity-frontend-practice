@@ -1,0 +1,15 @@
+{
+    "book":[
+        {
+            "id": "01",
+            "name": "ATomic Habits",
+            "author": "James Clear"
+        },
+        {
+            "id": "02",
+            "name": "Rich Dad Poor Dad",
+            "author": "Robert Kiyosaki"
+        }
+    ]
+}
+
